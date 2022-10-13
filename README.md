@@ -34,6 +34,3 @@ The results of the computation is a set of (i/k,j/k,rho) coordinates for the giv
 The program writes the coordinates into the output file as a list of coordinates.
 The program is not parallelized and hence, for large k value, it may take a few minutes. Do not quit in the middle as it may lead to memory leak.
 
-Plotting
--------------------
-
